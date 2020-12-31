@@ -1,0 +1,29 @@
+Se llama sistema material a todo cuerpo o conjunto de cuerpos
+seleccionados para la observacion con ciertas finalidades
+
+Sistemas materiales:
+	Homogeneos
+	Heterogeneos
+	
+	Homogeneo
+		es aquel que tiene una sola fase
+		las fases es el conjunto de las partes del mismo que tienen
+		iguales valores para sus propiedades intensivas
+		(bolsa de sal, cafe con leche, perfume)
+	Heterogeneo
+		aquel que tiene dos o mas fases
+		distintos valores en las propiedades intensivas
+		(trozo de cobre en agua, vaso con agua y hielos)
+
+
+otra forma de clasificar los sitemas materiales es en funcion
+del intercambio de materia y energia con los alrededores:
+	Sistema abierto
+		intercambia materia y energia con su alrededor
+		(taza de cafe caliente se enfria [energia] y vapor de agua [materia])
+	Sistema cerrado
+		intercambia energia pero no materia
+		(cafe caliente pero tapado se enfria [energia] pero no libera vapor)
+	Sistema aislado
+		no intercambia ni materia ni energia
+		(cafe caliente en un termo)

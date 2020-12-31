@@ -1,0 +1,37 @@
+	 ______________________
+	|Particulas Elementales|
+
+	Las moleculas, los atomos y los iones
+	son las unidades elementales
+	que constituyen la materia.
+	
+	Las moleculas estan formadas por un numero
+	entero de atomos, los iones son especies con
+	carga electrica contituidos por uno o varios atomos
+
+	existen dos conceptos muy importantes a tener en cuenta:
+		-Energia cinetica
+		-Fuerzas de interaccion
+
+		Energia cinetica
+			Las particulas elementales poseen energia cinetica
+			lo que significa que estan en movimiento,
+			la energia cinetica aumenta con la temperatura
+		Fuerza de interaccion
+			las particulas que forman una porcion de materia experimentan
+			fuerzas de interaccion entre ellas. estas fuerzas 
+			representan la atraccion de las particulas
+
+	* La relacion entre la intesidad de interaccion y la energia cinetica
+	 determinan el estado de agregacion
+
+	Estados de agregacion de la materia
+
+	Gaseoso
+		energia cinetica > fuerza de atraccion
+	Liquido
+		energia cinetica < fuerza de atraccion
+	Solido
+		solo vibran
+		particulas ordenadas regularmente
+		volumen propio

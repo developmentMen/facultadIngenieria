@@ -1,0 +1,34 @@
+	 _______________________________
+	|Cambios de estado de agregacion|
+
++ suministrarle energia
+	Volatizacion
+		Solido  |---> Gas
+	Fusion
+		Solido  |---> Liquido
+	Vaporizacion
+		Estado condensado (Liquido/Solido) |---> gas
+
++ extraer energia
+	Sublimacion
+		Gas     <---> Solido
+	Condenzacion
+		Gas	|---> Estado condensado(Liquido/Solido)
+	Solidificacion
+		Liquido |---> Solido
+
+Hablando de vaporizacion debemos primero definir dos conceptos:
+	-Evaporacion
+	-Ebullicion
+
+		Evaporacion
+			Liquido |---> Gas
+			* Se da solo en la superficie del liquido
+			* A nivel de interface
+
+		Ebullicion
+			Liquido |---> Gas
+			* Se da en todo el volumen del liquido
+
+
+* Cada sustancia cambia de estado a una temperatura particular
