@@ -1,3 +1,7 @@
+	 ___________________
+	|Sistemas materiales|
+
+
 Se llama sistema material a todo cuerpo o conjunto de cuerpos
 seleccionados para la observacion con ciertas finalidades
 
