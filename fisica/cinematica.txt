@@ -1,0 +1,5 @@
+Cinematica
+	-parte de la mecanica
+	-describe el movimiento
+	-estudia el movimiento de los cuerpos sin tener
+	en cuenta las causas que los generan
