@@ -1,0 +1,56 @@
+Moleculas -> formada por atomos
+
+	 ______________________________
+	|	elemento Quimico       |
+
+Es el conjunto de atomos con el mismo numero de protones
+cada elemento se caracteriza por su NUMERO ATOMICO (Z), es decir
+el numero de protones de todos sus atomos
+
+	NUMERO ATOMICO (Z) -->	protones
+	se indica abajo a la izquierda
+
+*los atomos neutros tienen igual electrones que protones
+
+	NUMERO MASICO (A)  -->	protones y neutrones
+	se indica arriba a la izquierda
+
+por lo tanto decimos que:
+	Numero de neutrones == A - Z
+
+cuando dos atomos tienen igual numero masico y numero atomico pentenecen al mismo nucleido
+
+	ISOTOPOS --> atomos de mismo elemento con distinto numero de neutrones de tal elemento
+	protio
+	deuterio
+	tritio
+
+ORBITAL ATOMICO
+	es la zona del espacio alrededor del núcleo donde
+	existe elevada probabilidad de encontrar a un electrón
+
+Orbitales S
+	 son aquellos que presentan simetría esférica
+
+NUMEROS CUANTICOS
+	n -> número cuántico principal: está vinculado con el diámetro de la nube
+		electrónica. determina el nivel de energía y la capa electrónica
+		a la cual pertenece el electrón.
+		Toma valores positivos y enteros: desde 1, 2, 3, ...., y hasta 7.
+	l -> número cuántico secundario o azimutal: está relacionado con la forma de
+		la nube electrónica. Indica el subnivel o subcapa a la cual
+		pertenece el electrón. Los distintos subniveles se denominan con las letras s, p,
+		d, f, g, etc. Puede tomar valores de 0 a (n -1).
+	m -> número cuántico magnético: está relacionado con la orientación de la nube
+		electrónica respecto de un campo magnético exterior. Este número determina el
+		orbital al cual pertenece el electrón.
+		Toma valores desde -l, ....., 0, ...., +l. (donde l es el nro. cuántico secundario)
+	s -> número cuántico del spin.el electrón gira sobre sí mismo como un trompo. Por lo tanto,
+		sólo hay dos sentidos de giro posibles y s puede tomar solamente dos valores
+		(iguales y de signo opuestos) que son +/-½
+
+ESTRUCTURAS ELECTRÓNICAS POR NIVELES
+	A medida que aumenta el número de electrones de un átomo, estos se van
+	acomodando en distintas capas o niveles de energía. A la forma de representar la
+	distribución de electrones en un átomo indicando la cantidad de electrones en cada
+	nivel se la llama “estructura electrónica por niveles”

@@ -1,0 +1,178 @@
+	 ______________________
+	|Particulas Elementales|
+
+	Las moleculas, los atomos y los iones
+	son las unidades elementales
+	que constituyen la materia.
+	
+	Las moleculas estan formadas por un numero
+	entero de atomos, los iones son especies con
+	carga electrica contituidos por uno o varios atomos
+
+	existen dos conceptos muy importantes a tener en cuenta:
+		-Energia cinetica
+		-Fuerzas de interaccion
+
+		Energia cinetica
+			Las particulas elementales poseen energia cinetica
+			lo que significa que estan en movimiento,
+			la energia cinetica aumenta con la temperatura
+		Fuerza de interaccion
+			las particulas que forman una porcion de materia experimentan
+			fuerzas de interaccion entre ellas. estas fuerzas 
+			representan la atraccion de las particulas
+
+	* La relacion entre la intesidad de interaccion y la energia cinetica
+	 determinan el estado de agregacion
+
+	Estados de agregacion de la materia
+
+	Gaseoso
+		energia cinetica > fuerza de atraccion
+	Liquido
+		energia cinetica < fuerza de atraccion
+	Solido
+		solo vibran
+		particulas ordenadas regularmente
+		volumen propio
+	 ___________________________
+	|Clasificacion de la materia|
+
+Materia:
+	Sustancia
+	-composicion fija
+	-no puede separarse por metodos fisicos
+	-temperatura constante durante el cambio de estado
+		Elementos
+			-sustancias simples
+			-no pueden descomponerse
+		Compuestos
+			-formados por dos o mas elementos
+			-pueden descomponerse
+
+	Mezclas
+	-composicion variable
+	-pueden separarse por metodos fisicos
+	-temperatura variable durante el cambio de estado
+		Soluciones (mezclas homogeneas)
+			-una fase
+			-formadas por dos o mas sustancias
+		Mezclas heterogeneas
+			-dos o mas fases
+			-formadas por una, dos o mas sustancias
+
+Sustancias
+	una sustancia es una porcion de materia constituida por identicas
+	(o muy parecidas) unidades elementales. estas unidades elemntales
+	pueden ser atomos, iones o moleculas
+
+	Simples
+		formada por particulas del mismo elemento
+
+		Alatropia
+			una sustancia simple se puede representar
+			en diferentes variedades alotropicas
+			esta formado por elementos iguales pero
+			ordenados espacialmente de una manera distinta
+	Compuestas
+		formadas por particulas de distintos elementos
+	Sustancia Pura
+		sistemas homogeneos de una sola sustancia
+	Soluciones
+		sistemas homogeneos de mas que una sustancia
+Mezclas
+	Sustancia pura/Homogeneidad
+		formados por mas de una sustancia
+	Heterogeneidad
+		formados por un solo componente y por dos
+		fracciones de materia con propiedades diferentes
+	 ______________________________________________
+	|Clasificacion de las propiedades de la materia|
+
+
+se clasifican como:
+	Propiedades extensivas e intensivas
+		Intensivas
+			no dependen de la cantidad de materia
+			(densidad del agua, temperatura de cambio de estado)
+		Extensivas
+			si dependen de la cantidad de materia
+			(peso, masa, volumen)
+
+	Propiedades fisicas y quimicas
+		Fisicas
+			caracteristicas de las sustancias que pueden medirse
+			sin cambiar la composicion de la misma
+			la materia interactua con luz, calor, etc
+			(color, dureza, conductividad electrica, punto de fusion , punto de ebullicion)
+		Quimicas
+			describen como la coposicion de una sustancia cambia o no cuando
+			esta intectuando con otra sustancia o forma de energia
+			se observa cuando una sustancia cambia su composicion
+	 _______________________________
+	|Cambios de estado de agregacion|
+
++ suministrarle energia
+	Volatizacion
+		Solido  |---> Gas
+	Fusion
+		Solido  |---> Liquido
+	Vaporizacion
+		Estado condensado (Liquido/Solido) |---> gas
+
++ extraer energia
+	Sublimacion
+		Gas     <---> Solido
+	Condenzacion
+		Gas	|---> Estado condensado(Liquido/Solido)
+	Solidificacion
+		Liquido |---> Solido
+
+Hablando de vaporizacion debemos primero definir dos conceptos:
+	-Evaporacion
+	-Ebullicion
+
+		Evaporacion
+			Liquido |---> Gas
+			* Se da solo en la superficie del liquido
+			* A nivel de interface
+
+		Ebullicion
+			Liquido |---> Gas
+			* Se da en todo el volumen del liquido
+
+
+* Cada sustancia cambia de estado a una temperatura particular
+	 ___________________
+	|Sistemas materiales|
+
+
+Se llama sistema material a todo cuerpo o conjunto de cuerpos
+seleccionados para la observacion con ciertas finalidades
+
+Sistemas materiales:
+	Homogeneos
+	Heterogeneos
+	
+	Homogeneo
+		es aquel que tiene una sola fase
+		las fases es el conjunto de las partes del mismo que tienen
+		iguales valores para sus propiedades intensivas
+		(bolsa de sal, cafe con leche, perfume)
+	Heterogeneo
+		aquel que tiene dos o mas fases
+		distintos valores en las propiedades intensivas
+		(trozo de cobre en agua, vaso con agua y hielos)
+
+
+otra forma de clasificar los sitemas materiales es en funcion
+del intercambio de materia y energia con los alrededores:
+	Sistema abierto
+		intercambia materia y energia con su alrededor
+		(taza de cafe caliente se enfria [energia] y vapor de agua [materia])
+	Sistema cerrado
+		intercambia energia pero no materia
+		(cafe caliente pero tapado se enfria [energia] pero no libera vapor)
+	Sistema aislado
+		no intercambia ni materia ni energia
+		(cafe caliente en un termo)
