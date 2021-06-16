@@ -1,4 +1,7 @@
-Moleculas -> formada por atomos
+Moleculas ->
+	formada por atomos ->
+		protones y neutrones en el nucleo ->
+			electrones en zona extranuclear
 
 	 ______________________________
 	|	elemento Quimico       |
@@ -54,3 +57,6 @@ ESTRUCTURAS ELECTRÓNICAS POR NIVELES
 	acomodando en distintas capas o niveles de energía. A la forma de representar la
 	distribución de electrones en un átomo indicando la cantidad de electrones en cada
 	nivel se la llama “estructura electrónica por niveles”
+
+		Ej:	Li:2, 1___>Segundo nivel
+			   |______>Primer nivel
